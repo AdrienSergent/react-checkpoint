@@ -1,10 +1,10 @@
 {
   "name": "js_checkpoint2",
   "version": "4.1.2",
-  "description": "Checkpoint 2 the React-Express-MySQL cursus in Wild Code School",
-  "homepage": "https://github.com/wildcodeschool/js_checkpoint2#readme",
+  "description": "Checkpoint 2 the React-Express-MySQL",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/wildcodeschool/js_checkpoint2/issues"
+    "url": ""
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "lint": "lint-staged"
   },
   "keywords": [],
-  "author": "Wild Code School",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.0",
